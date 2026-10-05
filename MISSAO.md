@@ -1,23 +1,13 @@
-# Missão 04 · Pedal Oficina
+﻿# Pedal Oficina
 
-## Lore
-Oficina de bike: orçamento rápido e ordem de serviço na nuvem.
+## O que fazer
+1. Abra **`PRINTS.html`** neste repo (é o gabarito visual).
+2. Monte o app **parecido com o print** (não precisa ser idêntico).
+3. A regra do tema está **nas telas do print** — observe totais, badges e mensagens.
+4. Cada semana o professor libera issues novas. Faça só as da semana aberta.
 
-## Itens sugeridos
-| Serviço | Preço | Detalhe |
-|---------|-------|---------|
-| Regulagem de marchas | R$ 50 | |
-| Troca de câmera | R$ 35 | |
-| Revisão completa | R$ 120 | |
-| Sangria de freio | R$ 60 | |
-| Alinhamento | R$ 40 | estoque/agenda 2 |
+## Stack
+Node **22.23.1** · Ionic **9** standalone · Firebase de vocês
 
-## Boss (obrigatório)
-**Revisão completa** já inclui regulagem: se as duas estiverem no orçamento, avisar e **não somar a regulagem** (ou bloquear adicionar regulagem).
-Mensagem clara na tela.
-
-## Cofre (Firestore)
-Coleção: `os_pedal`.
-
-## Rank sugerido da guilda
-Cor: verde bike / cinza
+## Entrega
+Link do seu **fork** + demo: login → lista → regra do print → Firestore
